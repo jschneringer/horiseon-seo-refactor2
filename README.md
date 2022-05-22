@@ -4,6 +4,7 @@
   <h2> Screenshot</h2>
 https://github.com/jschneringer/horiseon-seo-refactor2/issues/1#issue-1244153752 
   <h2>Links</h2>
- file:///Users/jordanschneringer/Desktop/challenges/challenge1/horiseon-seo-refactor2/index.html
+  
+ https://jschneringer.github.io/horiseon-seo-refactor2/
  https://github.com/jschneringer/horiseon-seo-refactor2
  <h3>Technologies used: HTML and CSS </h3>
