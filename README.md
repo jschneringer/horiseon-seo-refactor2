@@ -4,7 +4,7 @@
   <h2> Screenshot</h2>
 https://github.com/jschneringer/horiseon-seo-refactor2/issues/1#issue-1244153752 
   <h2>Links</h2>
-  
  https://jschneringer.github.io/horiseon-seo-refactor2/
  https://github.com/jschneringer/horiseon-seo-refactor2
+ <h3>I had a few concerns. I accidentally overode an image with the local file. After git adding to my terminal it seems to have allowed me to have the picture visible.</h3>
  <h3>Technologies used: HTML and CSS </h3>
